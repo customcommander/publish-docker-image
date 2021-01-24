@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/customcommander/publish-docker-image/compare/v1.0.2...v1.0.3) (2021-01-24)
+
+
+### Bug Fixes
+
+* update env var name ([f90bcfc](https://github.com/customcommander/publish-docker-image/commit/f90bcfc7e23e08ac75a0caab22505b6a9d03f184))
+
 ## [1.0.2](https://github.com/customcommander/publish-docker-image/compare/v1.0.1...v1.0.2) (2021-01-24)
 
 
