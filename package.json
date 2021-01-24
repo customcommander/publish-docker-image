@@ -1,7 +1,7 @@
 {
   "name": "publish-docker-image",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/customcommander/publish-docker-image.git",
   "author": "customcommander <hello@spinjs.com>",
   "license": "MIT",
