@@ -19,7 +19,7 @@ jobs:
         id: docker_meta
         uses: crazy-max/ghaction-docker-meta@v1
         with:
-          images: ${{ secrets.DOCKERHUB_USERNAME }}/${{ env.IMAGE_NAME }}
+          images: ${{ secrets.DOCKERHUB_USERNAME }}/${{ env.IMAGE_TITLE }}
           tag-semver: |
             {{version}}
             {{major}}.{{minor}}
