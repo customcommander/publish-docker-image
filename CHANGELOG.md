@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/customcommander/publish-docker-image/compare/v1.0.1...v1.0.2) (2021-01-24)
+
+
+### Bug Fixes
+
+* use docker meta tags when publishing ([9b085e4](https://github.com/customcommander/publish-docker-image/commit/9b085e4089b14652bd4fbb000945c1ee3a630d5c))
+
 ## [1.0.1](https://github.com/customcommander/publish-docker-image/compare/v1.0.0...v1.0.1) (2021-01-24)
 
 
