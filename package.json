@@ -6,7 +6,7 @@
   "author": "customcommander <hello@spinjs.com>",
   "license": "MIT",
   "scripts": {
-    "build": "docker build --no-cache -t echo ."
+    "build": "docker build --no-cache -t a_throwaway_name ."
   },
   "dependencies": {},
   "devDependencies": {
