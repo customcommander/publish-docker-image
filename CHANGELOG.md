@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/customcommander/publish-docker-image/compare/v1.0.3...v1.0.4) (2021-01-26)
+
+
+### Bug Fixes
+
+* the docker image name in the npm build script is irrelevant ([600a94c](https://github.com/customcommander/publish-docker-image/commit/600a94c6eb58726da8620b57f37f4582a526002d))
+
 ## [1.0.3](https://github.com/customcommander/publish-docker-image/compare/v1.0.2...v1.0.3) (2021-01-24)
 
 
